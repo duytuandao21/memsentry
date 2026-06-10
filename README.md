@@ -256,4 +256,5 @@ Tham khảo:
 - [Volatility 3 Documentation](https://volatility3.readthedocs.io/)
 - [YARA Documentation](https://yara.readthedocs.io/)
 - [Flask Documentation](https://flask.palletsprojects.com/)
+- [YARA Rules](https://github.com/yara-rules/rules/)
 
